@@ -1,2 +1,2 @@
 # hello-world
-beginer's luck
+beginner's luck
